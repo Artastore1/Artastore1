@@ -11,7 +11,7 @@ document.write(unescape('%3C%21%44%4F%43%54%59%50%45%20%68%74%6D%6C%3E%0A%3C%68%
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('https://img.hotimg.com/winter-7593872_1280.webp');
+    background-image: url('https://telegra.ph/file/7dbeac321d45c180c5d75.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
